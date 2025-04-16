@@ -26,8 +26,11 @@ Open and run cyclone.ipynb in Jupyter Notebook or any compatible environment.
 
 Contributors
 Shashank Vardhan Reddy [https://github.com/svr060105]
+<br>
 Korivi Rishith 
+<br>
 Shourya Hagadivte
+<br>
 Harshambica Gadalay
 
 Acknowledgements
