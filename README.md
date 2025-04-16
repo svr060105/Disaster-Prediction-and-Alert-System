@@ -25,13 +25,10 @@ Ensure Python and necessary libraries are installed (requirements.txt will be pr
 Open and run cyclone.ipynb in Jupyter Notebook or any compatible environment.
 
 Contributors
-Shashank Vardhan Reddy
-Korivi Rishith
+Shashank Vardhan Reddy [https://github.com/svr060105]
+Korivi Rishith 
 Shourya Hagadivte
 Harshambica Gadalay
-
-License
-This project is licensed under the [MIT License](link to license file).
 
 Acknowledgements
 Mention any acknowledgements or credits for third-party resources, libraries, or datasets used in the project.
