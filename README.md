@@ -18,7 +18,7 @@ This repository contains the code and dataset for our cyclone prediction model d
 ## Getting Started
 To get started with the project, follow these steps:
 1. Clone this repository to your local machine.
-2. Ensure Python and necessary libraries are installed (requirements.txt will be provided if applicable).
+2. Ensure Python and necessary libraries are installed
 3. Open and run `cyclone.ipynb` in Jupyter Notebook or any compatible environment.
 
 ## Contributors
